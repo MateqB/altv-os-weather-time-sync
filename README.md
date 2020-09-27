@@ -36,7 +36,7 @@ Ensure your `package.json` includes this property:
 
 ```javascript
 // Server side
-alt.emit('changeCurrentWeather', weather, transitiontime) 
+alt.emit('changeCurrentWeather', weather, transitiontime);
 ```
 
 | Argument                            | Description                                                                |
@@ -67,7 +67,7 @@ All weather types:
 
 ```javascript
 // Server side
-alt.emit('changeCurrentTime', weather, transitiontime) 
+alt.emit('changeCurrentTime', hour, minute, second); 
 ```
 
 | Argument                            | Description                                                                |

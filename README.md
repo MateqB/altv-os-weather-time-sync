@@ -63,8 +63,6 @@ All weather types:
 
 ---
 
----
-
 ## Changing time
 
 ```javascript

@@ -43,6 +43,7 @@ alt.emit('changeCurrentWeather', weather, transitiontime)
 | ----------------------------------- | -------------------------------------------------------------------------- |
 | `weather`                           | Weather (String)                                                           |
 | `transitiontime`                    | Time of the transition between weathers.                                   |
+
 All weather types:
   -  EXTRASUNNY
   -  CLEAR 
